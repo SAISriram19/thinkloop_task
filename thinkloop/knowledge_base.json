@@ -1,0 +1,68 @@
+{
+    "school_info": {
+        "name": "delhi public School",
+        "address": "delhi public School, delhi",
+        "phone": "9876543210",
+        "email": "info@dps.edu",
+        "website": "www.dps.edu"
+    },
+    "hours": {
+        "office": "8:00 AM - 4:00 PM, Monday to Friday",
+        "classes": "8:30 AM - 3:30 PM, Monday to Friday",
+        "summer": "9:00 AM - 2:00 PM, Monday to Thursday"
+    },
+    "departments": {
+        "admissions": {
+            "phone": "ext. 101",
+            "email": "admissions@exampleschool.edu",
+            "hours": "9:00 AM - 3:00 PM"
+        },
+        "administration": {
+            "phone": "ext. 102",
+            "email": "admin@exampleschool.edu",
+            "hours": "8:00 AM - 4:00 PM"
+        },
+        "student_services": {
+            "phone": "ext. 103",
+            "email": "studentservices@exampleschool.edu",
+            "hours": "8:30 AM - 3:30 PM"
+        },
+        "faculty": {
+            "phone": "ext. 104",
+            "email": "faculty@exampleschool.edu",
+            "hours": "8:00 AM - 4:00 PM"
+        }
+    },
+    "faq": {
+        "admission_process": "To apply, please visit our website and complete the online application form. Required documents include birth certificate, previous school records, and immunization records.",
+        "tuition_fees": "Tuition fees vary by grade level. Please contact the admissions office for current rates and payment plans.",
+        "uniform_policy": "School uniforms are mandatory and can be purchased from our designated supplier. Details are available on our website.",
+        "transportation": "School bus service is available for students living within the designated zones. Please contact student services for route information.",
+        "lunch_program": "We offer both hot lunch and cold lunch options. Menus are published monthly on our website."
+    },
+    "emergency_contacts": {
+        "security": "ext. 911",
+        "nurse": "ext. 912",
+        "maintenance": "ext. 913"
+    },
+    "holidays": [
+        "Labor Day",
+        "Thanksgiving Break",
+        "Winter Break",
+        "Spring Break",
+        "Memorial Day"
+    ],
+    "important_dates": {
+        "registration_deadline": "August 1st",
+        "first_day": "September 1st",
+        "last_day": "June 15th",
+        "parent_teacher_conferences": "October 15th and March 15th"
+    },
+    "courses_offered": {
+        "mathematics": "Comprehensive math curriculum from algebra to calculus.",
+        "science": "Biology, Chemistry, and Physics courses available.",
+        "literature": "English literature and creative writing programs.",
+        "computer_science": "Coding, algorithms, and web development courses.",
+        "arts": "Visual arts, music, and drama classes."
+    }
+} 
